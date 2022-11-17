@@ -11,3 +11,9 @@
 ```
 conda create -p venv python==3.10 -y
 ```
+
+## To install reqired modules automatically
+
+```
+pip install -r requirements.txt
+```
