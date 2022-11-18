@@ -5,6 +5,7 @@
 2. [Heroku](https://heroku.com)
 3. [VScode](https://code.visualstudio.com/download)
 4. [GitCLI](https://git-scm.com/downloads)
+5. [Postman](https://www.postman.com/downloads/)
 
 ## Create new environment
 
@@ -19,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ## To install Postman
-
+Either from downloads or use the below command 
 ```
 sudo snap install postman
 ```
